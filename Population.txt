@@ -1,14 +1,15 @@
-                                                                    World Population 2021                                                              
+                               World Population 2021                                                              
 
-Rank                           Country                    Population                            %     
-1.	                    China                      1409,725,760                     17.9% 
+Rank                    Country                    Population                          %     
+1.	                    China                      1409,725,760                      17.9% 
 2.	                    India                      1381,874,278                      17.5% 
-3.	                   America                  332,361,984                        4.21% 
-4.	                   Indonesia                 269,603,400                       3.41% 
+3.	                   America                    332,361,984                        4.21% 
+4.	                   Indonesia                   269,603,400                       3.41% 
 5.	                   Pakistan                   220,892,331                        2.8% 
-6.	                   Brazil                       213,675,603                         2.71% 
-7.	                   Nigeria                      206,139,587                       2.61% 
-8.	                   Bangladesh               171,353,700                       2.17% 
-9.	                   Russia                       146,748,590                       1.86% 
+6.	                   Brazil                     213,675,603                        2.71% 
+7.	                   Nigeria                     206,139,587                       2.61% 
+8.	                   Bangladesh                  171,353,700                       2.17% 
+9.	                   Russia                      146,748,590                       1.86% 
 10.	                   Mexico                      127,792,286                       1.62% 
 
+## world population in 2021
